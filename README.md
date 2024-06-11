@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-MyToken is a simple ERC-20 compliant smart contract deployed on the Ethereum blockchain. It allows for the creation, minting, and burning of a custom token named META (MTA). The contract includes functions for minting new tokens to specific addresses and burning tokens from specific addresses, with appropriate checks and balances.
+MyToken is a simple ERC-20 compliant smart contract deployed on the Ethereum blockchain. It allows for the creation, minting, and burning of a custom token named monkey (mny). The contract includes functions for minting new tokens to specific addresses and burning tokens from specific addresses, with appropriate checks and balances.
 
 ## Getting Started
 
@@ -55,6 +55,7 @@ npx truffle migrate --reset
 Contributors names and contact info
 
 - Gaurav
+- @gauravthakur83550(https://www.instagram.com/gauravthakur83550?igsh=MXYwdHU4cHo1a3NleA==)
   
 
 ## License
